@@ -29,11 +29,11 @@ O site foi projetado para ser totalmente responsivo, garantindo que funcione cor
 ## Como Rodar o Projeto
 
 1. Clone este repositório:
+  ```bash
+ git clone https://github.com/seu-usuario/petlife.git
+```
+2. Acesse o diretório do projeto:
    ```bash
-   git clone https://github.com/seu-usuario/petlife.git
-   Acesse o diretório do projeto:
-
-2. Copiar código
-cd petlife
+   cd petlife
 
 3. Abra o arquivo index.html no navegador para visualizar o site.
